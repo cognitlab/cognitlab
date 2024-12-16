@@ -17,8 +17,8 @@ Like My Work?
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Dimitra Technology
-- 🌱 I’m currently learning DevOps
+- 🔭 I’m currently working on Python Technology
+- 🌱 I’m currently learning Python and databases.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -38,22 +38,16 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Prajwal100&count_private=true&show_icons=true&include_all_commits=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal100&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=prajwal100&color=green)
 
 ### Languages and Tools
-
+<img align="left" src="https://simpleicons.org/icons/python.svg" alt="Python" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/laravel.svg" alt="Laravel" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/nodedotjs.svg" alt="Node.js" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/react.svg" alt="React.js" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/sequelize.svg" alt="Sequelize" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/html5.svg" alt="HTML5" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/css3.svg" alt="CSS3" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/jetbrains.svg" alt="JetBrains Tools" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/hackerrank.svg" alt="HR" height="40px" />
 <br />
 
 #
