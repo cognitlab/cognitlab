@@ -6,7 +6,7 @@ I'm a Software Engineer from Porbandar, Gujarat. I graduated in Computer Science
 
 [![Instagram Badge](https://img.shields.io/badge/-@whozdk-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/whozdk/)](https://instagram.com/whozdk)
 [![Gmail Badge](https://img.shields.io/badge/-dwarkeshthanki738@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dwarkeshthanki738@gmail.com)](mailto:dwarkeshthanki738@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-DwarkeshThanki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dwarkeshadmin/)](https://www.linkedin.com/in/prajwal100/)
+[![Linkedin Badge](https://img.shields.io/badge/-DwarkeshThanki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dwarkeshadmin/)](https://www.linkedin.com/in/dwarkeshadmin)
 
 Like My Work?
 
