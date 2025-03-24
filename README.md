@@ -32,9 +32,8 @@ Here are some ideas to get you started:
 
 ![Python](https://img.shields.io/badge/-Python-181717?style=flat-square&logo=python)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-181717?style=flat-square&logo=postgresql)
+![FastAPI](https://img.shields.io/badge/-FastAPI-181717?style=flat-square&logo=fastapi)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-181717?style=flat-square&logo=gitlab)
-![Laravel](https://img.shields.io/badge/-Laravel-00599C?style=flat-square&logo=Laravel)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
