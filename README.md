@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cognitlab&hide=TeX&layout=compact)
 ![Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cognitlab)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cognitlab&hide=TeX&layout=compact) -->
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=cognitlab&color=green)
 
