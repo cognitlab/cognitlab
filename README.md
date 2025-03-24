@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools
 <img align="left" src="https://simpleicons.org/icons/python.svg" alt="Python" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/laravel.svg" alt="Laravel" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/fastapi.svg" alt="Laravel" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/html5.svg" alt="HTML5" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/css3.svg" alt="CSS3" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/hackerrank.svg" alt="HR" height="40px" />
