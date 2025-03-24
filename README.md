@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cognitlab&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cognitlab)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=cognitlab&color=green)
 
