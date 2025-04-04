@@ -13,7 +13,7 @@ Like My Work?
 [![Hire Me on Linkedin](https://img.shields.io/badge/Hire%20Me%20on-Linkedin-brightgreen?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/dwarkeshadmin)
 
 #### Though! Also AVL @
-[![Indeed Badge](https://img.shields.io/badge/-Indeed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage)](https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage)
+[![Indeed Badge](https://img.shields.io/badge/-Indeed-white?style=flat-square&logo=Linkedin&logoColor=blue&link=https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage)](https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage)
 [![Naukri Badge](https://img.shields.io/badge/-Naukri-blue?style=flat-square&logo=Naukri&logoColor=white&link=https://www.naukri.com/mnjuser/profile?id=&altresid)](https://www.naukri.com/mnjuser/profile?id=&altresid)
 
 ### You can find my stuff here :leaves:
