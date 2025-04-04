@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 ![Visitor Badge](https://komarev.com/ghpvc/?username=cognitlab&color=green)
 
 ### Languages and Tools
-<img align="left" src="https://simpleicons.org/icons/python.svg" alt="Python" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/Python.svg" alt="Python" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/fastapi.svg" alt="Laravel" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/html5.svg" alt="HTML5" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/css3.svg" alt="CSS3" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/hackerrank.svg" alt="HR" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/Hackerrank.svg" alt="HR" height="40px" />
 <br />
 
 #
