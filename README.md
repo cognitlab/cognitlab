@@ -14,7 +14,7 @@ Like My Work?
 
 #### Though! Also AVL @
 [![Indeed Badge](https://img.shields.io/badge/-Indeed-white?style=flat-square&logo=Indeed&logoColor=blue&link=https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage)](https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage)
-[![Naukri Badge](https://img.shields.io/badge/-Naukri-blue?style=flat-square&logo=Naukri&logoColor=white&link=https://www.naukri.com/mnjuser/profile?id=&altresid)](https://www.naukri.com/mnjuser/profile?id=&altresid)
+[![Naukri Badge](https://img.shields.io/badge/-Naukri.com-blue?style=flat-square&logo=Naukri&logoColor=white&link=https://www.naukri.com/mnjuser/profile?id=&altresid)](https://www.naukri.com/mnjuser/profile?id=&altresid)
 
 ### You can find my stuff here :leaves:
 
