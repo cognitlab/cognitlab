@@ -12,7 +12,8 @@ Like My Work?
 
 [![Hire Me on Linkedin](https://img.shields.io/badge/Hire%20Me%20on-Linkedin-brightgreen?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/dwarkeshadmin)
 
-[![Though!Also AVL @](https://img.shields.io/badge/Hire%20Me%20on-Indeed-brightgreen?logo=indeed&style=for-the-badge)](https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage)
+###Though!Also AVL @
+(https://img.shields.io/badge/Hire%20Me%20on-Indeed-brightgreen?logo=indeed&style=for-the-badge)](https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage)
 
 ### You can find my stuff here :leaves:
 
