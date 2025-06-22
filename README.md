@@ -22,11 +22,11 @@ Like My Work?
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Python Technology
-- 🌱 I’m currently learning Python and databases.
-- 👯 I’m looking to collaborate on such platform
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Python, JS
-- 📫 How to reach me: Connect me on Linkedin
+- 🌱 I’m currently learning JS and databases.
+- 👯 I’m looking to collaborate on such a platform.
+- 🤔 I’m looking for help with Nothing.
+- 💬 Ask me about Python, JS.
+- 📫 How to reach me: Connect with me on LinkedIn.
 - 😄 Pronouns: DK
 - ⚡ Fun fact: VS Code on Blast!
 
