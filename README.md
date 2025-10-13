@@ -5,10 +5,10 @@ I'm a Software Engineer from Ahmedabad, Gujarat. I graduated with a BCA and a de
 
 
 [![Instagram Badge](https://img.shields.io/badge/-@whozdk-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/whozdk/)](https://instagram.com/whozdk)
-[![Gmail Badge](https://img.shields.io/badge/-dwarkeshthanki738@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dwarkeshthanki738@gmail.com)](mailto:dwarkeshthanki738@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-dwarkesh.play@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dwarkesh.play@gmail.com)](mailto:dwarkeshthanki738@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dwarkeshadmin/)](https://www.linkedin.com/in/dwarkeshadmin)
 
-Like My Work?
+#### Like My Work?
 
 [![Hire Me on Linkedin](https://img.shields.io/badge/Hire%20Me%20on-Linkedin-brightgreen?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/dwarkeshadmin)
 
@@ -25,12 +25,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning JS and databases.
 - 👯 I’m looking to collaborate on such a platform.
 - 🤔 I’m looking for help with Nothing.
-- 💬 Ask me about Python, JS.
+- 💬 Ask me about Python, JS, SQL.
 - 📫 How to reach me: Connect with me on LinkedIn.
 - 😄 Pronouns: DK
 - ⚡ Fun fact: VS Code on Blast!
 
-## ⚡ Technologiaaa
+## ⚡ Technologiaaa...
 
 <!--- just --->
 
